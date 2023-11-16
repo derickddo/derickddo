@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/119562/screenshots/4022507/fullstack.gif)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7HyNy_7j_dzeXZ8nREOTeGFdusyIgD6gitDavC7TE82joZiWju4XANzhmrDOHdhQgo8&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Derick Danso Okyere</h1>
 <h3 align="center">Full Stack Engineer with a Passion for AI and Machine Learning</h3>
 
