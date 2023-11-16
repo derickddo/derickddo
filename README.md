@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Derick Danso Okyere</h1>
 <h3 align="center">Full Stack Engineer with a Passion for AI and Machine Learning</h3>
 
-<a href="https://app.daily.dev/derickdansookyere"><img src="https://github.com/derickddo/derickddo/blob/main/devcard.svg" width="400" alt="Derick Danso Okyere's Dev Card"/></a>  
+<a  href="https://app.daily.dev/derickdansookyere"><img align="right" src="https://github.com/derickddo/derickddo/blob/main/devcard.svg" width="400" alt="Derick Danso Okyere's Dev Card"/></a>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derickddo&label=Profile%20views&color=0e75b6&style=flat" alt="derickddo" /> </p>
 
