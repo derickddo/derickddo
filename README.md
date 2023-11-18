@@ -1,4 +1,4 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+<!--![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)-->
 <h1 align="center">Hi 👋, I'm Derick Danso Okyere</h1>
 <h3 align="center">Full Stack Engineer with a Passion for AI and Machine Learning</h3>
 
