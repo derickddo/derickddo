@@ -6,7 +6,7 @@
   <tr>
     <td>
       <p>
-        <a href="https://app.daily.dev/derickdansookyere"><img src="https://api.daily.dev/devcards/v2/1ndf2Md9ayTfftKRtyZ25.png?type=default&r=q1u" width="450" alt="Derick Danso Okyere's Dev Card"/></a>
+        <a href="https://app.daily.dev/derickdansookyere"><img src="https://api.daily.dev/devcards/v2/1ndf2Md9ayTfftKRtyZ25.png?type=default&r=q1u" width="650" alt="Derick Danso Okyere's Dev Card"/></a>
       </p>
     </td>
     <td>
