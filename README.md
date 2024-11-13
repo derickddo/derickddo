@@ -11,7 +11,7 @@
     </td>
     <td>
    
-  * 🌱 I’m currently learning <b>React</b>
+  * 🌱 I’m currently learning <b>ASP.NET</b>
   
   * 🔭 I’m currently working on <b>Lab Net Manager</b>
       
