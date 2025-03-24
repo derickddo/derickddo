@@ -13,7 +13,7 @@
    
   * 🌱 I’m currently learning <b>ASP.NET</b>
   
-  * 🔭 I’m currently working on <b>Lab Net Manager</b>
+  * 🔭 I’m currently working on <b>SIS</b>
       
   * 💬 Ask me about <b>Django, Python, JavaScript</b>
       
